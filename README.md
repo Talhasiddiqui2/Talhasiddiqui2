@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Talhasiddiqui2](https://github.com/Talhasiddiqui2)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Html , Css , Js , React**
 
 - 📫 How to reach me **talhasiddiqui613@gmail.com**
 
