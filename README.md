@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed Talha Siddiqui</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Talha Siddiqui</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Wordpress Websites With Custom Code**
