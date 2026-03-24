@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talha Siddiqui</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Wordpress Websites With Custom Code**
-
+- 🔭 I specialize in developing WordPress and Shopify e-commerce websites with custom code. I also provide advanced integrations with Zoho and Odoo to help scale large-scale businesses**
 - 🌱 I’m currently learning **React.js, Next.js**
 
 - 👯 I’m looking to collaborate on **Open Source Frontend Projects**
